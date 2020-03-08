@@ -1,0 +1,1 @@
+<h1>Modelo customizado do Curso de Laravel 6.x</h1>
